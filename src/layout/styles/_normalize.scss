@@ -36,3 +36,7 @@ button{
     padding: 0 25px;
     margin: 0 auto;
 }
+
+body::-webkit-scrollbar{
+    display: none;
+}
